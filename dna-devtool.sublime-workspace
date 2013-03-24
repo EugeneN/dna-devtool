@@ -1,0 +1,1404 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"respo",
+				"responce_from_bg"
+			],
+			[
+				"po",
+				"postMessage"
+			],
+			[
+				"render",
+				"render_resp"
+			],
+			[
+				"res",
+				"responce_from_bg"
+			],
+			[
+				"ge",
+				"get_cells"
+			],
+			[
+				"dna",
+				"dna-lang"
+			],
+			[
+				"eva",
+				"eval_str"
+			],
+			[
+				"ev",
+				"eval_str"
+			],
+			[
+				"pan",
+				"panel_window"
+			],
+			[
+				"set",
+				"set_panel_content"
+			],
+			[
+				"rend",
+				"render_receptors"
+			],
+			[
+				"ren",
+				"render_protocols"
+			],
+			[
+				"pa",
+				"panel_window"
+			],
+			[
+				"DNA",
+				"DNA_AVAILABLE"
+			],
+			[
+				"on",
+				"onShown"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"copy",
+				"copy_"
+			],
+			[
+				"get",
+				"getOwnPropertyNames"
+			],
+			[
+				"DEB",
+				"DEBUG_PREFIX"
+			],
+			[
+				"get-",
+				"get-color"
+			],
+			[
+				"fb",
+				"fb-factory"
+			],
+			[
+				"colo",
+				"colour"
+			],
+			[
+				"LE",
+				"LEIN_ARGS"
+			],
+			[
+				"lib",
+				"lib_dir"
+			],
+			[
+				"CB",
+				"CB_SUCCESS"
+			],
+			[
+				"SI",
+				"SIGTERM"
+			],
+			[
+				"foun",
+				"found_modules_list"
+			],
+			[
+				"fou",
+				"found_modules_second_level"
+			],
+			[
+				"resol",
+				"resolve_deps_cb"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"argv",
+				"argv_or_ctx"
+			],
+			[
+				"mod",
+				"mod_spec"
+			],
+			[
+				"fin",
+				"find_adaptor_cb"
+			],
+			[
+				"sort",
+				"sort_bundles"
+			],
+			[
+				"filter",
+				"filter_duplicates"
+			],
+			[
+				"reso",
+				"resolve_deps_for_fist_level"
+			],
+			[
+				"reci",
+				"recipe_deps"
+			],
+			[
+				"ada",
+				"adaptor_factory"
+			],
+			[
+				"ad",
+				"adaptor_factory"
+			],
+			[
+				"ma",
+				"matches"
+			],
+			[
+				"is",
+				"is_dir"
+			],
+			[
+				"is_",
+				"is_dir"
+			],
+			[
+				"I",
+				"IAC_WILL_ECHO"
+			],
+			[
+				"IA",
+				"IAC_WONT_ECHO"
+			],
+			[
+				"TE",
+				"TELNET_CMD_MARKER"
+			],
+			[
+				"js",
+				"json_slug"
+			],
+			[
+				"ass",
+				"assure_dir_structure"
+			],
+			[
+				"sr",
+				"scream"
+			],
+			[
+				"src",
+				"src_dir"
+			],
+			[
+				"WR",
+				"write_cb"
+			],
+			[
+				"wri",
+				"write_cb"
+			],
+			[
+				"FI",
+				"FILE_ENCODING"
+			],
+			[
+				"get_",
+				"get_target_fn"
+			],
+			[
+				"read",
+				"read_file"
+			],
+			[
+				"st",
+				"stat"
+			],
+			[
+				"stat",
+				"stats"
+			],
+			[
+				"do",
+				"do_job"
+			],
+			[
+				"pas",
+				"passprompt"
+			],
+			[
+				"nul",
+				"null_fb"
+			],
+			[
+				"nu",
+				"null_fb"
+			],
+			[
+				"wi",
+				"will"
+			],
+			[
+				"li",
+				"lib-js"
+			],
+			[
+				"LI",
+				"LISPY_BIN"
+			],
+			[
+				"S",
+				"SUB_CAFE"
+			],
+			[
+				"cafe",
+				"cafe_factory"
+			],
+			[
+				"un",
+				"unsubscribe"
+			],
+			[
+				"sub",
+				"subscribe_console_logger"
+			],
+			[
+				"ta",
+				"target_path"
+			],
+			[
+				"sh",
+				"show_version_and_exit"
+			],
+			[
+				"ar",
+				"argv_like"
+			],
+			[
+				"Lo",
+				"LOG_PREFIX"
+			],
+			[
+				"clien",
+				"client_socket"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"app",
+				"apply1"
+			],
+			[
+				"ui",
+				"ui_logger"
+			],
+			[
+				"ext",
+				"ext_log"
+			],
+			[
+				"EX",
+				"EXIT_SIGINT"
+			],
+			[
+				"E",
+				"EXIT_HELP"
+			],
+			[
+				"sta",
+				"status_code"
+			],
+			[
+				"show",
+				"show_help_and_exit"
+			],
+			[
+				"exit",
+				"exit_cb"
+			],
+			[
+				"target",
+				"target_path"
+			],
+			[
+				"short",
+				"short_info"
+			],
+			[
+				"sho",
+				"short_info"
+			],
+			[
+				"targ",
+				"target_path"
+			],
+			[
+				"C",
+				"CLEAN_ALL_PASS"
+			],
+			[
+				"_do",
+				"_do_serve_menu"
+			],
+			[
+				"just",
+				"justtea"
+			],
+			[
+				"no",
+				"noupdate"
+			],
+			[
+				"cm",
+				"cmd_args"
+			],
+			[
+				"new",
+				"newer"
+			],
+			[
+				"rec",
+				"recipe_path"
+			],
+			[
+				"own",
+				"own_args"
+			],
+			[
+				"base",
+				"base_recipe_path"
+			],
+			[
+				"bas",
+				"base_recipe"
+			],
+			[
+				"rea",
+				"read_json_file"
+			],
+			[
+				"recipe",
+				"recipe_path"
+			],
+			[
+				"log",
+				"log_type"
+			],
+			[
+				"mo",
+				"module_root"
+			],
+			[
+				"or",
+				"orig_ctx"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"fu",
+				"full_filename"
+			],
+			[
+				"not",
+				"not_changed"
+			],
+			[
+				"fil",
+				"filtered_bundles_list"
+			],
+			[
+				"was",
+				"was_modified"
+			],
+			[
+				"bun",
+				"bundle_name"
+			],
+			[
+				"BU",
+				"BUNDLE_ITEM_FTR"
+			],
+			[
+				"BUN",
+				"BUNDLE_ITEM_HDR"
+			],
+			[
+				"may",
+				"maybe_skipped"
+			],
+			[
+				"done",
+				"done_seq2"
+			],
+			[
+				"w",
+				"walk"
+			],
+			[
+				"RE",
+				"RECIPE_API_LEVEL"
+			],
+			[
+				"T",
+				"TMP_BUILD_DIR_SUFFIX"
+			],
+			[
+				"MIN",
+				"MIN_SUFFIX"
+			],
+			[
+				"A",
+				"ADAPTORS_LIB"
+			],
+			[
+				"slug",
+				"slug_path"
+			],
+			[
+				"sl",
+				"slug_path"
+			],
+			[
+				"mini",
+				"minify_bundle"
+			],
+			[
+				"tar",
+				"target_name"
+			],
+			[
+				"err",
+				"error_cb"
+			],
+			[
+				"run",
+				"run_target"
+			],
+			[
+				"wh",
+				"whisper"
+			],
+			[
+				"bui",
+				"built_file"
+			],
+			[
+				"module",
+				"module_root"
+			],
+			[
+				"com",
+				"compiler_args"
+			],
+			[
+				"build",
+				"build_bundle"
+			],
+			[
+				"modu",
+				"module_name"
+			],
+			[
+				"adap",
+				"adaptor"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "manifest.json",
+			"settings":
+			{
+				"buffer_size": 366,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "devtools.html",
+			"settings":
+			{
+				"buffer_size": 65,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "devtools.coffee",
+			"settings":
+			{
+				"buffer_size": 2261,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "panel.html",
+			"settings":
+			{
+				"buffer_size": 168,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "#document.body.style.backgroundColor='green'\n# return 3.1415\nport = chrome.extension.connect()\n\nwindow.addEventListener(\n    \"message\", \n    (event) ->\n        if event.source isnt window\n            console.log 'Bad event source', event\n            return\n\n        res = event.data\n        if res.action is 'collect-dna-data'\n            console.log \"Got result\", res\n            port.postMessage res\n        \n    false\n)\n\n\ncells = window.require('dna-lang').get_cells()\nret = {}\n\nfor id, cell of cells\n    ret[id] = \n        protocols: Object.keys cell.impls\n        receptors: Object.keys cell.receptors\n\nconsole.log '>>>>', ret\n\nreturn ret\n\n",
+			"file": "collect-dna-data.coffee",
+			"file_size": 309,
+			"file_write_time": 1364074310000000,
+			"settings":
+			{
+				"buffer_size": 645,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/eugene/github/exm/cs/dna-devtools-adapter/slug.json",
+			"settings":
+			{
+				"buffer_size": 59,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/eugene/node_modules/dna-lang/src/dna.coffee",
+			"settings":
+			{
+				"buffer_size": 12842,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/eugene/github/exm/1.html",
+			"settings":
+			{
+				"buffer_size": 1248,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/eugene/github/exm/cs/recipe.yaml",
+			"settings":
+			{
+				"buffer_size": 732,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/eugene/github/exm/cs/jquery-dom-parser/app/JQueryDom.coffee",
+			"settings":
+			{
+				"buffer_size": 3042,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/eugene/github/exm/cs/dna-devtools-adapter/index.coffee",
+			"settings":
+			{
+				"buffer_size": 805,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "background.coffee",
+			"settings":
+			{
+				"buffer_size": 765,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/eugene/github/dna-devtool/devtools.js",
+		"/Users/eugene/github/cafe/src/cafe.coffee",
+		"/Users/eugene/github/cafe/src/adaptors/plain_clojurescript_file.coffee",
+		"/Users/eugene/github/cafe/src/defs.coffee",
+		"/Users/eugene/github/cafe/src/lib/bundler.coffee",
+		"/Users/eugene/github/cafe/src/adaptors/clojurescript_lein_module.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/bundler.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/targets/build.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/adaptors/cs_module.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/cafe.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/ui/telnet/telnet-cafe.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/ui/cli/cafe.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/adaptors/cake_cafebuild_module.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/adaptors/plain_javascript_file.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/utils.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/defs.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/pessimist.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/adaptors/plain_coffeescript_file.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/adaptors/plain_lispy_file.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/adaptors/plain_livescript_file.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/sm_compiler.coffee",
+		"/Users/eugene/tmp/cs/cafe/bin/telnet-cafe",
+		"/Users/eugene/tmp/cs/cafe/src/targets/watch.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/targets/minify.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/localizer.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/adaptors/cs_module.coffee.orig",
+		"/Users/eugene/tmp/cs/cafe/src/lib/minifier.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/target.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/bundler.coffee.orig",
+		"/Users/eugene/tmp/cs/cafe/package.json",
+		"/Users/eugene/tmp/cs/cafe/src/targets/menu.coffee",
+		"/Users/eugene/tmp/cs/cafe/test/test_compile.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/uilogger.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/ui/telnet/telnet-cafe.coffee.orig",
+		"/Users/eugene/tmp/cs/cafe/src/targets/make.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/targets/compile.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/watcher.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/targets/update.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/logger.coffee",
+		"/Users/eugene/tmp/cs/cafe/TODO",
+		"/Users/eugene/tmp/cs/cafe/test/test_cafe.coffee",
+		"/Users/eugene/tmp/cs/cafe/Cakefile",
+		"/Users/eugene/tmp/cs/cafe/lib-js/lib/pessimist.js",
+		"/Users/eugene/tmp/cs/cafe/bin/cafe",
+		"/Users/eugene/tmp/cs/cafe/src/lib/adaptor.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/pictures.coffee",
+		"/Users/eugene/tmp/cs/cafe/README.md",
+		"/Users/eugene/tmp/cs/cafe/grepped-deps",
+		"/Users/eugene/tmp/cs/cafe/test/fixtures/cafe/target1.coffee",
+		"/Users/eugene/tmp/cs/cafe/test/fixtures/cafe/target2.coffee",
+		"/Users/eugene/tmp/cs/cafe/test/test_minify.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/targets/bundle.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/targets/localize.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/template.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/stitch.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/specs.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/resolve.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/package.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/mkdirp.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/dependency.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/ansi.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/compilers.coffee",
+		"/Users/eugene/tmp/cs/cafe/src/lib/css.coffee",
+		"/Users/eugene/tmp/cs/cafe/cafe.sublime-build",
+		"/Users/eugene/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/eugene/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/eugene/workspace/support/v2/src/domain/datatypes.py",
+		"/Users/eugene/workspace/support/v1/src/lib/data/basetypes.py",
+		"/Users/eugene/workspace/support/v1/src/domain/datatypes.py",
+		"/Users/eugene/workspace/support/v1/src/lib/data/bindings.py",
+		"/Users/eugene/workspace/support/v1/src/lib/data/constraints.py",
+		"/Users/eugene/Dropbox/Document.py",
+		"/Users/eugene/workspace/support/v1/src/main.py",
+		"/Users/eugene/Downloads/Маршрутн. точки_02-ИЮН-12.gpx",
+		"/Users/eugene/workspace/support/v1/src/lib/dataconstraints.py",
+		"/Users/eugene/workspace/support/v1/src/lib/databindings.py",
+		"/Users/eugene/workspace/support/v1/src/lib/datatypes.py",
+		"/Users/eugene/workspace/support/v1/src/lib/validators.py",
+		"/Users/eugene/Dropbox/car.coffee",
+		"/Users/eugene/Dropbox/dropbox.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/eugene/tmp/cs/cafe/src",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"extensionPanel",
+			"jQuery",
+			"proxylog",
+			"jnode",
+			"page_getProperties",
+			") {",
+			"function(",
+			"var ",
+			"//",
+			"ok null",
+			"check_for_inheritance",
+			"ok",
+			"null",
+			"factory",
+			"cakefile",
+			"CAKEFILE",
+			"CAKE_BIN",
+			"CLOJURESCRIPT_BIN",
+			"CLOJ",
+			"CLJS_OPTS",
+			"async.map",
+			"series",
+			"null",
+			"last_modified",
+			"get_recipe",
+			"read_json_file",
+			"get_mtime",
+			"read_slug",
+			"Sync",
+			"scream",
+			"slug_path",
+			"scream",
+			"juxt",
+			"null",
+			"CS_SUCCESS",
+			"read_json",
+			"null",
+			"is_dir_cb",
+			"cb",
+			"slug_deps",
+			"bundles_sort",
+			"bundles_sorted_list",
+			"res",
+			"resolve_deps",
+			"match",
+			"is_dir",
+			"slug",
+			"maybe",
+			"Exception raised while executing target",
+			" =",
+			"0xff",
+			"is_dir",
+			"Sync",
+			"Unknown target",
+			"id_",
+			"is_dir",
+			"Sync",
+			"_get_files_to_minify",
+			"walk",
+			"_get_files_to_minify",
+			"Sync",
+			"content",
+			"write_bundle",
+			"mod_src",
+			"is_dir",
+			"prompt",
+			"PROMPT",
+			"PASSWORD_PROMPT",
+			"PROMPT",
+			"new_menu_item_name",
+			"run_tar",
+			"cafe_factory",
+			"fb",
+			"fb_logger",
+			"cook_tea",
+			"get_recipe",
+			"no_action_handler",
+			"show_help_and_exit",
+			"draw_logo",
+			"Lispy",
+			"spawn",
+			"set_non_authenticated_socket_listener",
+			"COFFEE_PATTERN",
+			"get_targets",
+			"draw",
+			"draw_",
+			"head",
+			"fb",
+			"fb_log_handler",
+			"fb_handler",
+			"cafe",
+			"no_action_handler",
+			"show_help_and_exit",
+			"passwd",
+			"passws",
+			"pass",
+			"set_authenticated_socket_events",
+			"cafe_done_cb",
+			"status",
+			"cafe_done_cb",
+			"_get_args_from_input",
+			"set_non_authenticated_socket_events",
+			"cafe_done_cb",
+			"get_pl",
+			"Start_time",
+			"draw_logo",
+			"apply",
+			":",
+			"target_run_factory",
+			"info",
+			"Start_time",
+			"_show_version_and_exit",
+			"argv",
+			"print_help_and_exit",
+			"_print_help_and_exit",
+			"argv",
+			"exec",
+			"is_debug_",
+			"whisper",
+			"log_action",
+			"console",
+			"WATCH_EXCLUDE_DIRS",
+			"_maybe_minify",
+			" =",
+			"VERSION",
+			"adaptor_harvester",
+			"jsPath",
+			"module_name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$",
+			"$node",
+			") ->",
+			"(",
+			"",
+			"#",
+			":",
+			"fb",
+			"fb_logger",
+			"password",
+			" =",
+			":",
+			"harvest",
+			"Emitter",
+			"    ",
+			"",
+			"    ",
+			" =",
+			"",
+			" ="
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "manifest.json",
+					"settings":
+					{
+						"buffer_size": 366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								312,
+								312
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "devtools.html",
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "devtools.coffee",
+					"settings":
+					{
+						"buffer_size": 2261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								241,
+								241
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 81.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "panel.html",
+					"settings":
+					{
+						"buffer_size": 168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "collect-dna-data.coffee",
+					"settings":
+					{
+						"buffer_size": 645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								643,
+								643
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/eugene/github/exm/cs/dna-devtools-adapter/slug.json",
+					"settings":
+					{
+						"buffer_size": 59,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/eugene/node_modules/dna-lang/src/dna.coffee",
+					"settings":
+					{
+						"buffer_size": 12842,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12211,
+								12211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 347.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/eugene/github/exm/1.html",
+					"settings":
+					{
+						"buffer_size": 1248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/eugene/github/exm/cs/recipe.yaml",
+					"settings":
+					{
+						"buffer_size": 732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								483,
+								483
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/eugene/github/exm/cs/jquery-dom-parser/app/JQueryDom.coffee",
+					"settings":
+					{
+						"buffer_size": 3042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1220,
+								1220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 10,
+					"file": "/Users/eugene/github/exm/cs/dna-devtools-adapter/index.coffee",
+					"settings":
+					{
+						"buffer_size": 805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "background.coffee",
+					"settings":
+					{
+						"buffer_size": 765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								462,
+								462
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.459343445334,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pess",
+				"src/cafe5/lib/pessimist.clj"
+			],
+			[
+				"utils",
+				"src/lib/utils.coffee"
+			],
+			[
+				"cs_",
+				"src/adaptors/cs_module.coffee"
+			],
+			[
+				"build.c",
+				"src/targets/build.coffee"
+			],
+			[
+				"bund",
+				"src/lib/bundler.coffee"
+			],
+			[
+				"tel",
+				"src/ui/telnet/telnet-cafe.coffee"
+			],
+			[
+				"cafe",
+				"bin/telnet-cafe"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"util",
+				"src/lib/utils.coffee"
+			],
+			[
+				"cs_mo",
+				"src/adaptors/cs_module.coffee"
+			],
+			[
+				"bun",
+				"src/lib/bundler.coffee"
+			],
+			[
+				"menu",
+				"src/targets/menu.coffee"
+			],
+			[
+				"cak",
+				"Cakefile"
+			],
+			[
+				"logger",
+				"src/lib/logger.coffee"
+			],
+			[
+				"tar",
+				"src/lib/target.coffee"
+			],
+			[
+				"srcpess",
+				"src/lib/pessimist.coffee"
+			],
+			[
+				"logg",
+				"src/lib/logger.coffee"
+			],
+			[
+				"def",
+				"src/defs.coffee"
+			],
+			[
+				"defs",
+				"src/defs.coffee"
+			],
+			[
+				"log",
+				"src/lib/logger.coffee"
+			],
+			[
+				"to",
+				"TODO"
+			],
+			[
+				"api",
+				"rest_api/api.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true
+}
