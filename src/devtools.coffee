@@ -11,9 +11,9 @@ responce_from_bg = (data) ->
 
 
 chrome.devtools.panels.create(
-    "DNA", 
-    "dna.png", 
-    "panel.html", 
+    "DNA",
+    "../res/dna.png",
+    "../pages/panel.html",
 
     (panel) ->
         console.log 'hello from DNA panel'
@@ -37,10 +37,10 @@ chrome.devtools.panels.create(
             panel.onShown.removeListener run_q
             _window = panel_window
 
-            while (msg = data.shift()) 
+            while (msg = data.shift())
                 msg.src = 'fromq'
                 render_resp _window, (responce_from_bg msg)
-            
+
         panel.onShown.addListener run_q
 
         panel.onShown.addListener (panel_window) ->
@@ -49,8 +49,8 @@ chrome.devtools.panels.create(
                 actionid: 'collect-dna-data'
 
             port.postMessage msg
-            
-)      
+
+)
 
 ################################################################################
 # The function below is executed in the context of the inspected page.
@@ -66,16 +66,16 @@ get_el_dna_interfaces = () ->
         else
             node: el
             ':': "No cell for this node"
-        
+
     else
-        error: "DNA not available"  
+        error: "DNA not available"
 
 chrome.devtools.panels.elements.createSidebarPane(
     "DNA Cell",
     (sidebar) ->
         updateElementProperties = ->
-            sidebar.setExpression "(#{get_el_dna_interfaces.toString()})()" 
-  
+            sidebar.setExpression "(#{get_el_dna_interfaces.toString()})()"
+
         updateElementProperties()
         chrome.devtools.panels.elements.onSelectionChanged.addListener updateElementProperties
 )

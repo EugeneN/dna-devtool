@@ -1,11 +1,11 @@
 {
   "name": "DNA devtools",
-  "version": "0.1",
+  "version": "0.2",
   "description": "Extends the Developer Tools, adding a sidebar that displays the DNA data associated with the selected DOM element.",
-  "devtools_page": "devtools.html",
+  "devtools_page": "pages/devtools.html",
   "manifest_version": 2,
   "permissions": [
     "tabs", "http://*/*", "https://*/*", "file://*"
   ],
-  "background":{"scripts":["background.js"]}
+  "background":{"scripts":["out/background.js"]}
 }
